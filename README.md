@@ -12,6 +12,7 @@ A simple text generation demo based on Hugging Face Transformers and PyTorch.
 
 - text_generation_demo.py : interactive LLM text generation demo
 - tokenizer_demo.py : tokenizer and input_ids demo
+- sentiment_demo.py : sentiment analysis demo
 
 ## Features
 
